@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-GlassBricks
 
-Deployed at: https://jpa02-benjamin-ye.herokuapp.com
+Deployed at: https://glassbricks-jpa02.onrender.com/
 
 
 # About this repo
